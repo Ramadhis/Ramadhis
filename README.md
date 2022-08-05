@@ -2,7 +2,7 @@
 I am used to using php and javascript programming languages, with several frameworks such as laravel, yii, expressjs.
 <br><br>
 You can contact me via email ramdhians.i@gmail.com, you can also see my portfolio in this repository 
-or go to this link https://ramadhis.github.io/myportofolioweb/
+or for more details please go to this link https://ramadhis.github.io/myportofolioweb/
 
 <!--
 **Ramadhis/Ramadhis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
