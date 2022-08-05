@@ -1,5 +1,5 @@
 ## Hello, I am Rama 👋
-I am used to using php and javascript programming languages, with several frameworks such as laravel, yii, expressjs.
+I am used to using php and javascript programming languages, with several frameworks such as Laravel, Yii, Expressjs, and React.
 <br><br>
 You can contact me via email ramdhians.i@gmail.com, you can also see my portfolio in this repository 
 or for more details please go to this link https://ramadhis.github.io/myportofolioweb/
